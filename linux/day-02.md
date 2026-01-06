@@ -30,3 +30,4 @@ Copies files or folders.
 ## Practice
 Today I practiced creating, deleting, copying, and moving files using basic Linux commands.
 
+- Practiced mkdir, touch, mv, cp, rm commands today.
