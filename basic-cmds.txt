@@ -1,0 +1,3 @@
+echo ls : list all the directories 
+echo mkdir: to make a new dir 
+echo rm: to delete file 
