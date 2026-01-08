@@ -37,3 +37,6 @@ head file.txt
 tail file.txt
 wc file.txt
 sort names.txt
+## Extra Practice 2
+- Revisited file compression commands.
+- Improved understanding of tar and zip usage.
