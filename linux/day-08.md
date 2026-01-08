@@ -40,3 +40,5 @@ sort names.txt
 ## Extra Practice 2
 - Revisited file compression commands.
 - Improved understanding of tar and zip usage.
+# Today i learnt about these many commands , i aspire to work where linux is used , even though i cant remember all these commands, 
+# i can manage. 
