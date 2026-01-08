@@ -20,3 +20,20 @@ gzip backup.tar
 gunzip backup.tar.gz
 zip files.zip file1.txt file2.txt
 unzip files.zip
+## Extra Commands Practiced
+- head
+- tail
+- wc
+- sort
+
+## What they do
+- head → shows first lines of a file  
+- tail → shows last lines of a file  
+- wc → counts lines, words, characters  
+- sort → sorts file content alphabetically  
+
+## Examples
+head file.txt
+tail file.txt
+wc file.txt
+sort names.txt
