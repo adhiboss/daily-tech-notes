@@ -11,3 +11,6 @@
 - kill stops a process using PID.
 - htop shows interactive system monitoring.
 - uptime shows how long the system is running.
+## Extra 1
+- Learned to use ps aux and kill safely.
+
