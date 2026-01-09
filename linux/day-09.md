@@ -16,3 +16,5 @@
 ## Extra 2
 - Practiced htop for real-time monitoring.
 
+## Extra 3
+- Checked system uptime during practice.
