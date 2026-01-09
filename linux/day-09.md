@@ -18,3 +18,5 @@
 
 ## Extra 3
 - Checked system uptime during practice.
+## Extra 4
+- Reviewed process management workflow.
