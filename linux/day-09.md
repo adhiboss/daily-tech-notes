@@ -13,4 +13,6 @@
 - uptime shows how long the system is running.
 ## Extra 1
 - Learned to use ps aux and kill safely.
+## Extra 2
+- Practiced htop for real-time monitoring.
 
