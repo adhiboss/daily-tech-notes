@@ -13,3 +13,5 @@
 - ss -tuln shows listening ports and services.
 ## Extra 1
 - Practiced ping and traceroute commands.
+## Extra 2
+- Checked network interfaces using ip a.
