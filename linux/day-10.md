@@ -17,3 +17,5 @@
 - Checked network interfaces using ip a.
 ## Extra 3
 - Reviewed open ports with ss command.
+## Extra 4
+- Learned difference between ss and netstat.
