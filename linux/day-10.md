@@ -15,3 +15,5 @@
 - Practiced ping and traceroute commands.
 ## Extra 2
 - Checked network interfaces using ip a.
+## Extra 3
+- Reviewed open ports with ss command.
