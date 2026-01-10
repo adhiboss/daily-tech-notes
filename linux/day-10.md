@@ -19,3 +19,5 @@
 - Reviewed open ports with ss command.
 ## Extra 4
 - Learned difference between ss and netstat.
+## Extra 5
+- Summarized networking basics practice.
