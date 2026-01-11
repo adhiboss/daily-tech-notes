@@ -13,3 +13,5 @@
 - whereis shows binary, source, and man page paths.
 ## Extra 1
 - Practiced using find to locate files by name.
+## Extra 2
+- Used locate for faster file searching.
