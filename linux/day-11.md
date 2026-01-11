@@ -11,3 +11,5 @@
 - locate searches from a database (faster).
 - which shows command path.
 - whereis shows binary, source, and man page paths.
+## Extra 1
+- Practiced using find to locate files by name.
