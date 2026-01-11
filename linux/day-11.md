@@ -15,3 +15,5 @@
 - Practiced using find to locate files by name.
 ## Extra 2
 - Used locate for faster file searching.
+## Extra 3
+- Checked command paths using which.
