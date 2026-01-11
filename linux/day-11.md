@@ -19,3 +19,5 @@
 - Checked command paths using which.
 ## Extra 4
 - Learned how whereis shows binary locations.
+## Extra 5
+- Summarized file search tools usage.
