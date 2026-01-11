@@ -17,3 +17,5 @@
 - Used locate for faster file searching.
 ## Extra 3
 - Checked command paths using which.
+## Extra 4
+- Learned how whereis shows binary locations.
