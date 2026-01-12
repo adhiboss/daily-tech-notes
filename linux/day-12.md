@@ -15,3 +15,5 @@
 - Practiced checking disk space with df -h.
 ## Extra 2
 - Used du -sh to measure folder sizes.
+## Extra 3
+- Reviewed memory stats using free -h.
