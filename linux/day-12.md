@@ -17,3 +17,5 @@
 - Used du -sh to measure folder sizes.
 ## Extra 3
 - Reviewed memory stats using free -h.
+## Extra 4
+- Monitored processes with top.
