@@ -21,3 +21,5 @@
 - Monitored processes with top.
 ## Extra 5
 - Summarized system monitoring practice.
+## Extra 6
+- Practiced combining df and du for storage analysis.
