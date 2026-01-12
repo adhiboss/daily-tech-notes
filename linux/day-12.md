@@ -1,0 +1,13 @@
+# Linux – Day 12
+
+## Commands Practiced
+- df -h
+- du -sh
+- free -h
+- top
+
+## Notes
+- df -h shows disk usage in human-readable form.
+- du -sh shows folder size.
+- free -h shows memory usage.
+- top shows live system performance.
