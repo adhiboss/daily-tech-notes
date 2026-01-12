@@ -19,3 +19,5 @@
 - Reviewed memory stats using free -h.
 ## Extra 4
 - Monitored processes with top.
+## Extra 5
+- Summarized system monitoring practice.
