@@ -23,3 +23,5 @@
 - Summarized system monitoring practice.
 ## Extra 6
 - Practiced combining df and du for storage analysis.
+## Extra 7
+- Compared top output with free -h memory stats.
