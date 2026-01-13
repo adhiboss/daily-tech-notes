@@ -12,3 +12,5 @@
 - Started and stopped services using systemctl.
 ## Extra 2
 - Checked service status and logs with journalctl.
+## Extra 3
+- Compared service vs systemctl commands.
