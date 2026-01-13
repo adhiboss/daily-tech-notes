@@ -10,3 +10,5 @@
 - journalctl views system logs.
 ## Extra 1
 - Started and stopped services using systemctl.
+## Extra 2
+- Checked service status and logs with journalctl.
