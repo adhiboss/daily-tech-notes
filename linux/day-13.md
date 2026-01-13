@@ -16,3 +16,4 @@
 - Compared service vs systemctl commands.
 ## Extra 4
 - Summarized service management workflow.
+## i almost forgot but consistency is the key
