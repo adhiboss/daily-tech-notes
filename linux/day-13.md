@@ -14,3 +14,5 @@
 - Checked service status and logs with journalctl.
 ## Extra 3
 - Compared service vs systemctl commands.
+## Extra 4
+- Summarized service management workflow.
