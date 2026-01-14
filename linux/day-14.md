@@ -13,3 +13,5 @@
 - watch runs a command repeatedly to monitor changes.
 ## Extra 1
 - Practiced listing cron jobs with crontab -l.
+## Extra 2
+- Learned how to edit scheduled tasks using crontab -e.
