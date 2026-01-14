@@ -11,3 +11,5 @@
 - crontab -l lists all scheduled cron jobs.
 - at schedules a one-time task.
 - watch runs a command repeatedly to monitor changes.
+## Extra 1
+- Practiced listing cron jobs with crontab -l.
