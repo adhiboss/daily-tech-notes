@@ -16,4 +16,6 @@
 ## Extra 2
 - Reviewed user creation workflow.
 ## Extra 3
+## Extra 4
+- Practiced changing passwords using passwd.
 - Learned safe practices for user deletion.
