@@ -13,3 +13,5 @@
 - id shows user/group info.
 ## Extra 1
 - Practiced checking user identity with id.
+## Extra 2
+- Reviewed user creation workflow.
