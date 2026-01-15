@@ -19,3 +19,5 @@
 ## Extra 4
 - Practiced changing passwords using passwd.
 - Learned safe practices for user deletion.
+## Extra 5
+- Summarized basic user management tasks.
