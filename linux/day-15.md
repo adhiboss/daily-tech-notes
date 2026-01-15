@@ -15,3 +15,5 @@
 - Practiced checking user identity with id.
 ## Extra 2
 - Reviewed user creation workflow.
+## Extra 3
+- Learned safe practices for user deletion.
