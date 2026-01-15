@@ -21,3 +21,5 @@
 - Learned safe practices for user deletion.
 ## Extra 5
 - Summarized basic user management tasks.
+## Extra 6
+- Reviewed best practices for managing Linux users securely.
