@@ -17,4 +17,6 @@
 ## Extra 3
 - Used env and printenv to inspect variables.
 ## Extra 4
+## Extra 5
+- Summarized environment variable workflow.
 - Compared session variables vs persistent config.
