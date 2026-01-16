@@ -14,3 +14,5 @@
 - Checked PATH variable and command lookup order.
 ## Extra 2
 - Practiced setting temporary variables with export.
+## Extra 3
+- Used env and printenv to inspect variables.
