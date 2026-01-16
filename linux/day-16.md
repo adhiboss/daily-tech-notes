@@ -12,3 +12,5 @@
 - PATH controls where commands are searched.
 ## Extra 1
 - Checked PATH variable and command lookup order.
+## Extra 2
+- Practiced setting temporary variables with export.
