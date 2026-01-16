@@ -16,3 +16,5 @@
 - Practiced setting temporary variables with export.
 ## Extra 3
 - Used env and printenv to inspect variables.
+## Extra 4
+- Compared session variables vs persistent config.
