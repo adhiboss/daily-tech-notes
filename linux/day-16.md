@@ -10,3 +10,5 @@
 - env / printenv show environment variables.
 - export sets variables for the session.
 - PATH controls where commands are searched.
+## Extra 1
+- Checked PATH variable and command lookup order.
