@@ -20,3 +20,5 @@
 
 ## Extra 4
 - Downloaded files from the internet using wget.
+## Extra 5
+- Summarized file transfer and backup workflow.
