@@ -18,3 +18,5 @@
 ## Extra 3
 - Copied files securely using scp.
 
+## Extra 4
+- Downloaded files from the internet using wget.
