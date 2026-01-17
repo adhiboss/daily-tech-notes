@@ -11,3 +11,5 @@
 - rsync syncs files efficiently.
 - scp copies files over SSH.
 - wget downloads files from the web.
+## Extra 1
+- Practiced creating archives using tar.
