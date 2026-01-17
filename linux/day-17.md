@@ -13,3 +13,5 @@
 - wget downloads files from the web.
 ## Extra 1
 - Practiced creating archives using tar.
+## Extra 2
+- Used rsync for efficient file synchronization.
