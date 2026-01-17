@@ -15,4 +15,6 @@
 - Practiced creating archives using tar.
 ## Extra 2
 - Used rsync for efficient file synchronization.
-nano linux/day-17.md
+## Extra 3
+- Copied files securely using scp.
+
