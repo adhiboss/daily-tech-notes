@@ -16,3 +16,5 @@
 ## Extra 2
 - Reviewed chown usage for files and directories.
 
+## Extra 3
+- Checked group memberships with groups command.
