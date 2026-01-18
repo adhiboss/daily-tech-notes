@@ -13,4 +13,6 @@
 - umask sets default permission mask.
 ## Extra 1
 - Practiced chmod numeric and symbolic modes.
+## Extra 2
+- Reviewed chown usage for files and directories.
 
