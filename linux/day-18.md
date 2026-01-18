@@ -11,3 +11,6 @@
 - chown changes file ownership.
 - groups shows user group membership.
 - umask sets default permission mask.
+## Extra 1
+- Practiced chmod numeric and symbolic modes.
+
