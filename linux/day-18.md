@@ -18,3 +18,5 @@
 
 ## Extra 3
 - Checked group memberships with groups command.
+## Extra 4
+- Learned how umask affects default permissions.
