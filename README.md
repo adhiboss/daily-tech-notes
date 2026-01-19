@@ -55,3 +55,28 @@ GitHub: https://github.com/adhiboss
 
 These are learning notes, not production documentation.  
 I update this repository **daily** as I continue learning.
+
+
+## 📈 Progress Tracker
+
+| Day | Topic / Focus | Status |
+|-----|--------------|--------|
+| Day 01 | Basic Linux commands | ✅ |
+| Day 02 | File navigation & handling | ✅ |
+| Day 03 | File permissions | ✅ |
+| Day 04 | Process monitoring | ✅ |
+| Day 05 | Disk usage & memory | ✅ |
+| Day 06 | Git basics | ✅ |
+| Day 07 | System information | ✅ |
+| Day 08 | Archiving & compression | ✅ |
+| Day 09 | Process management | ✅ |
+| Day 10 | Networking basics | ✅ |
+| Day 11 | File search tools | ✅ |
+| Day 12 | System monitoring | ✅ |
+| Day 13 | Service management | ✅ |
+| Day 14 | Task scheduling (cron) | ✅ |
+| Day 15 | User management | ✅ |
+| Day 16 | Environment variables | ✅ |
+| Day 17 | Backup & transfer tools | ✅ |
+| Day 18 | Permissions & ownership | ✅ |
+| Day 19 | Filesystem & kernel info | ✅ |
