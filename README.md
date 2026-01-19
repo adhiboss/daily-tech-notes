@@ -80,3 +80,6 @@ I update this repository **daily** as I continue learning.
 | Day 17 | Backup & transfer tools | ✅ |
 | Day 18 | Permissions & ownership | ✅ |
 | Day 19 | Filesystem & kernel info | ✅ |
+
+
+- Practicing pull request workflow.
