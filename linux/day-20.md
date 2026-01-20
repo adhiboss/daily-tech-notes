@@ -11,3 +11,5 @@
 - htop is an improved interactive process viewer.
 - vmstat reports memory and process statistics.
 - iostat reports CPU and disk I/O statistics.
+# Worked more on my cmds and understood how linux and git flows are 
+#Completed todays git push
