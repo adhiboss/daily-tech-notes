@@ -13,3 +13,6 @@
 - iostat reports CPU and disk I/O statistics.
 # Worked more on my cmds and understood how linux and git flows are 
 #Completed todays git push
+## Extra Notes
+- Learned how system monitoring helps in performance tuning.
+- These tools are useful for debugging high CPU and memory issues.
