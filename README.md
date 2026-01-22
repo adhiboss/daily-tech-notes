@@ -81,5 +81,7 @@ I update this repository **daily** as I continue learning.
 | Day 18 | Permissions & ownership | ✅ |
 | Day 19 | Filesystem & kernel info | ✅ |
 | Day 20 | Real time process |  ✅ |
-
+| Day 21 | Networking cmds |  ✅ |
+| Day 22 | Networking cmds |  ✅ |
+| Day 23 | Networking cmds |  ✅ |
 - Practicing pull request workflow.
