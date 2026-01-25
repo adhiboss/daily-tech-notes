@@ -84,4 +84,8 @@ I update this repository **daily** as I continue learning.
 | Day 21 | Networking cmds |  ✅ |
 | Day 22 | Networking cmds |  ✅ |
 | Day 23 | Networking cmds |  ✅ |
-- Practicing pull request workflow.
+| Day 24 | Linux file permissions and ownership|  ✅ |
+| Day 25 | Linux process management and signals|  ✅ |
+| Day 26 | Disk usage, file system, and storage basics|  ✅ 
+
+
