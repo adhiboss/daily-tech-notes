@@ -1,6 +1,10 @@
 # Daily Tech Notes 📒
 
-This repository contains my **daily learning notes and practice logs** while studying Linux, Git, and system concepts.
+![Linux](https://img.shields.io/badge/Linux-Learning-green?style=for-the-badge&logo=linux)
+![GitHub](https://img.shields.io/badge/Daily_Updates-Active-blue?style=for-the-badge&logo=github)
+![Networking](https://img.shields.io/badge/Networking-Focus-orange?style=for-the-badge)
+
+This repository contains my **daily learning notes and practice logs** while studying Linux, Networking, Git, and system concepts.
 
 The goal of this repo is to:
 - Build consistency through daily practice  
@@ -9,53 +13,76 @@ The goal of this repo is to:
 
 ---
 
+## 🔥 Current Focus
+- Networking fundamentals (TCP/IP, DNS, HTTP)
+- Linux troubleshooting and system commands
+- System administration basics
+- GitHub daily contribution discipline
+
+---
+
 ## 📅 Structure
 
-Each day has a separate file:
+Each day has a separate file inside:
 
 
 Each file contains:
 - Commands practiced  
 - Short explanations  
 - Extra notes from practice  
+- Observations and troubleshooting  
 
 ---
 
 ## 🛠️ Topics Covered
-
 - Linux commands  
 - File permissions & ownership  
 - Process management  
 - Disk & filesystem  
 - Cron and automation  
-- Git & GitHub basics  
+- Networking fundamentals (TCP, UDP, DNS, HTTP)
+- Git & GitHub workflow  
 
 ---
 
-## 🎯 Purpose
+## 📝 Note Style
+Each daily file usually contains:
+- What I learned (concept)
+- Commands practiced
+- Output / observations
+- Mistakes I faced + fixes
+- Mini summary
 
-This repo is part of my learning journey as a student.
+---
 
-I use this to:
-- Practice daily  
-- Improve my Linux fundamentals  
-- Build discipline and consistency  
-- Create a public learning record  
+## 🏆 Milestones
+- ✅ 30+ days consistency completed  
+- ✅ Strong Linux fundamentals covered  
+- ✅ Networking learning deep dive started  
+- ✅ HTTP, DNS, TCP concepts documented  
+- ✅ Learning is backed by hands-on practice  
+
+---
+
+## 🔗 Related Repositories
+- **Linux Networking Labs:** https://github.com/adhiboss/linux-networking-lab  
+- **Smart System Monitor Project:** https://github.com/adhiboss/smart-system-monitor  
+- **AWS Linux Server Playbook:** https://github.com/adhiboss/aws-linux-server-playbook  
+- **Linux Networking Cheatsheet:** https://github.com/adhiboss/linux-networking-cheatsheet  
 
 ---
 
 ## 👨‍💻 Author
-
-Adithya Gowda  
+**Adithya Gowda**  
 GitHub: https://github.com/adhiboss  
 
 ---
 
 ## ⭐ Note
-
 These are learning notes, not production documentation.  
 I update this repository **daily** as I continue learning.
 
+---
 
 ## 📈 Progress Tracker
 
@@ -80,12 +107,58 @@ I update this repository **daily** as I continue learning.
 | Day 17 | Backup & transfer tools | ✅ |
 | Day 18 | Permissions & ownership | ✅ |
 | Day 19 | Filesystem & kernel info | ✅ |
-| Day 20 | Real time process |  ✅ |
-| Day 21 | Networking cmds |  ✅ |
-| Day 22 | Networking cmds |  ✅ |
-| Day 23 | Networking cmds |  ✅ |
-| Day 24 | Linux file permissions and ownership|  ✅ |
-| Day 25 | Linux process management and signals|  ✅ |
-| Day 26 | Disk usage, file system, and storage basics|  ✅ 
-
-
+| Day 20 | Real time process | ✅ |
+| Day 21 | Networking commands | ✅ |
+| Day 22 | Networking commands | ✅ |
+| Day 23 | Networking commands | ✅ |
+| Day 24 | Linux file permissions and ownership | ✅ |
+| Day 25 | Linux process management and signals | ✅ |
+| Day 26 | Disk usage, filesystem, and storage basics | ✅ |
+| Day 27 | Networking fundamentals intro | ✅ |
+| Day 28 | IP addressing and basics | ✅ |
+| Day 29 | TCP vs UDP overview | ✅ |
+| Day 30 | DNS basics | ✅ |
+| Day 31 | Ports and services | ✅ |
+| Day 32 | Firewalls basics | ✅ |
+| Day 33 | HTTP basics | ✅ |
+| Day 34 | TCP states overview | ✅ |
+| Day 35 | Networking recap | ✅ |
+| Day 36 | Linux networking practice | ✅ |
+| Day 37 | HTTP request-response lifecycle | ✅ |
+| Day 38 | HTTP methods overview | ✅ |
+| Day 39 | HTTP status codes | ✅ |
+| Day 40 | HTTP headers | ✅ |
+| Day 41 | TCP vs UDP practice | ✅ |
+| Day 42 | SSH basics | ✅ |
+| Day 43 | NAT basics | ✅ |
+| Day 44 | Subnetting basics | ✅ |
+| Day 45 | Ports, sockets, bind and listen | ✅ |
+| Day 46 | NAT and public vs private IP | ✅ |
+| Day 47 | Subnet mask and CIDR basics | ✅ |
+| Day 48 | Routing basics and default gateway | ✅ |
+| Day 49 | ARP and MAC resolution | ✅ |
+| Day 50 | Firewall basics with iptables and ufw | ✅ |
+| Day 51 | TCP handshake and connection termination | ✅ |
+| Day 52 | TCP flow control vs congestion control | ✅ |
+| Day 53 | DNS record types deep dive | ✅ |
+| Day 54 | HTTP cookies and sessions | ✅ |
+| Day 55 | Proxy vs reverse proxy | ✅ |
+| Day 56 | Load balancing algorithms | ✅ |
+| Day 57 | CDN basics | ✅ |
+| Day 58 | SSH authentication flow | ✅ |
+| Day 59 | SSH hardening basics | ✅ |
+| Day 60 | systemd services basics | ✅ |
+| Day 61 | TCP vs UDP testing using netcat | ✅ |
+| Day 62 | Linux networking debugging commands | ✅ |
+| Day 63 | HTTP request methods deep dive | ✅ |
+| Day 64 | HTTP status codes overview | ✅ |
+| Day 65 | Proxy vs reverse proxy recap | ✅ |
+| Day 66 | TCP retransmission and packet loss basics | ✅ |
+| Day 67 | TCP window size and throughput | ✅ |
+| Day 68 | TLS and HTTPS basics | ✅ |
+| Day 69 | NAT vs port forwarding | ✅ |
+| Day 70 | TCP vs UDP real world use cases | ✅ |
+| Day 71 | HTTP headers request vs response | ✅ |
+| Day 72 | HTTP keep-alive and persistent connections | ✅ |
+| Day 73 | HTTP/2 basics and multiplexing | ✅ |
+| Day 74 | HTTP caching basics | ✅ |
