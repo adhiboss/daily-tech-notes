@@ -162,3 +162,9 @@ I update this repository **daily** as I continue learning.
 | Day 72 | HTTP keep-alive and persistent connections | ✅ |
 | Day 73 | HTTP/2 basics and multiplexing | ✅ |
 | Day 74 | HTTP caching basics | ✅ |
+| Day 75 | HTTP cookies basics | ✅ |
+| Day 76 | HTTP sessions login flow | ✅ |
+| Day 77 | CSRF basics and protection | ✅ |
+| Day 78 | CORS basics and preflight | ✅ |
+| Day 79 | HTTP authentication basic vs bearer | ✅ |
+
