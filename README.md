@@ -167,4 +167,6 @@ I update this repository **daily** as I continue learning.
 | Day 77 | CSRF basics and protection | ✅ |
 | Day 78 | CORS basics and preflight | ✅ |
 | Day 79 | HTTP authentication basic vs bearer | ✅ |
+| Day 80 | JWT basics | ✅ |
+
 
