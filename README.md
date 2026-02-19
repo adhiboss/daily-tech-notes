@@ -9,7 +9,7 @@ This repository contains my **daily learning notes and practice logs** while stu
 The goal of this repo is to:
 - Build consistency through daily practice  
 - Document what I learn every day  
-- Track my progress publicly on GitHub  
+- Track my progress publicly on GitHub.  
 
 ---
 
