@@ -1,0 +1,59 @@
+🟢 Level 1 — Beginner (Foundations)
+You know Linux if you can:
+Use basic commands:
+ls, cd, pwd, mkdir, rm, cp, mv
+View file contents:
+cat, less, head, tail
+Understand:
+Directory structure (/home, /etc, /bin, /usr)
+File permissions (rwx)
+Use:
+sudo
+Package managers (apt, dnf, pacman)
+Install software from terminal
+If this is you → You understand Linux basics.
+🟡 Level 2 — Intermediate (Practical Usage)
+You know Linux well if you can:
+Modify file permissions:
+chmod, chown
+Use process commands:
+ps, top, htop, kill
+Use networking tools:
+ping, curl, ssh
+Edit files using:
+vim or nano
+Understand:
+Shell scripting basics
+Environment variables
+Manage services:
+systemctl
+Use pipes and redirection:
+|, >, >>
+If this is you → You are comfortable working in Linux environments.
+🔵 Level 3 — Advanced (Engineer Level)
+You really know Linux if you can:
+Write shell scripts with:
+loops, conditions, functions
+Manage:
+Users & groups
+Cron jobs
+Understand:
+File system types (ext4, xfs)
+Mounting & partitions
+Use:
+grep, awk, sed
+Configure:
+SSH, firewall
+Debug performance issues
+Compile programs from source
+If this is you → You are Linux proficient.
+🔴 Level 4 — Power User / DevOps Level
+You deeply understand Linux if you can:
+Kernel concepts (process scheduling, memory management)
+Docker & containers
+System logs debugging
+Write advanced Bash scripts
+Configure servers (Nginx, Apache)
+Automate deployments
+Tune performance
+If this is you → You think like a Linux systems engineer.
