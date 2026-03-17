@@ -174,4 +174,17 @@ I update this repository **daily** as I continue learning.
 | Day 84 | Docker basics | ✅ |
 | Day 85 | Nginx basics | ✅ |
 | Day 86 | CI/CD basics | ✅ |
-
+| Day 87 | Linux system monitoring tools (top, htop) | ✅ |
+| Day 88 | DNS resolution flow | ✅ |
+| Day 89 | SSH login flow and authentication | ✅ |
+| Day 90 | Firewall basics and packet filtering | ✅ |
+| Day 91 | Linux users and permissions basics | ✅ |
+| Day 92 | Linux signals and process control | ✅ |
+| Day 93 | System load average basics | ✅ |
+| Day 94 | Linux file descriptors | ✅ |
+| Day 95 | Cron jobs and task scheduling | ✅ |
+| Day 96 | Linux system logs and journalctl | ✅ |
+| Day 97 | Network interfaces and IP configuration | ✅ |
+| Day 98 | SSH key authentication basics | ✅ |
+| Day 99 | Disk usage and storage inspection | ✅ |
+| Day 100 | Linux learning journey summary | ✅ |
