@@ -56,7 +56,7 @@ Each daily file usually contains:
 ---
 
 ## 🏆 Milestones
-- ✅ 50+ days consistency completed  
+- ✅ 85+ days consistency completed  
 - ✅ Strong Linux fundamentals covered  
 - ✅ Networking learning deep dive started  
 - ✅ HTTP, DNS, TCP concepts documented  
@@ -168,5 +168,10 @@ I update this repository **daily** as I continue learning.
 | Day 78 | CORS basics and preflight | ✅ |
 | Day 79 | HTTP authentication basic vs bearer | ✅ |
 | Day 80 | JWT basics | ✅ |
-
+| Day 81 | API rate limiting basics | ✅ |
+| Day 82 | API gateway basics | ✅ |
+| Day 83 | Microservices architecture basics | ✅ |
+| Day 84 | Docker basics | ✅ |
+| Day 85 | Nginx basics | ✅ |
+| Day 86 | CI/CD basics | ✅ |
 
