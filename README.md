@@ -56,7 +56,7 @@ Each daily file usually contains:
 ---
 
 ## 🏆 Milestones
-- ✅ 85+ days consistency completed  
+- ✅ 100 days consistency completed  
 - ✅ Strong Linux fundamentals covered  
 - ✅ Networking learning deep dive started  
 - ✅ HTTP, DNS, TCP concepts documented  
