@@ -4,6 +4,10 @@
 - ls
 - pwd
 - cd
+- ls -a
+- la -la
+- ls .
+- 
 
 ## Notes
 - Linux is case-sensitive
