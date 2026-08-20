@@ -1,0 +1,39 @@
+The Linux terminal features many bizarre, hilarious, and completely useless commands that developers have built in as Easter eggs over the decades. If you want to take a break from production servers, open your terminal and try these weird utilities. 
+
+Contabo
+ +4
+Visual & Animation Commands
+sl (Steam Locomotive): Draws a detailed ASCII steam locomotive that chugs across your screen. It was explicitly designed to punish developers who accidentally type sl instead of ls. 
+
+YouTube
+·BekBrace
+ +4
+cmatrix: Transforms your boring terminal screen into the cascading green digital rain seen in The Matrix films. 
+
+Medium
+·Harsh Kahate
+ +1
+asciiquarium: Completely replaces your command line interface with a fully animated, colorful underwater aquarium full of swimming fish, sharks, and seaweed. 
+
+YouTube
+·BekBrace
+ +1
+aafire: Spawns an animated ASCII art fireplace inside your window, causing rendering engines to simulate flickering flames. 
+
+YouTube
+·BekBrace
+ +3
+hollywood: Splits your screen into multiple fast-moving, high-intensity technical windows to simulate a fictional "Hollywood hacker" console. 
+
+YouTube
+·BekBrace
+ +2
+Text & Animals
+cowsay: Renders an ASCII art cow that repeats whatever text string you pass to it inside a speech bubble.
+lolcat: Concatenates file data or standard inputs while overlaying a bright, flashing rainbow color gradient over the characters.
+fortune | cowsay | lolcat: A popular command pipeline that grabs a random, witty quote from the fortune database, passes it to the speaking cow, and turns the entire display into a rainbow.
+figlet: Converts ordinary character text strings into giant, blocky ASCII art banners stretching across your display window. 
+
+Medium
+·Harsh Kahate
+ +5
